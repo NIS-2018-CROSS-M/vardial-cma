@@ -1,19 +1,35 @@
-# vardial-cma
+# NIS-2018_CROSS_M
+
+### Cross-lingual morphological analysis
+
+* Morphology model of an unseen Turkic/Romance language X with annotated data on N related languages given
+* Without annotated data for language X used
+
+### Mentors
+
+* Francis Tyers
+
+### Team
+
+* Nastya Khorosheva
+* Oleg Serikov
+* Lorenzo Tosi
+* Vlad Mikhailov
+
+### Shared Task Description
+
+https://github.com/ftyers/vardial-shared-task
 
 
-это -- репозиторий с кодом к [статье](https://www.aclweb.org/anthology/W19-1415)
+### Code
 
-не лезб подумой
+* krc_final.ipynb
 
-![подумой](https://memepedia.ru/wp-content/uploads/2017/05/%D0%BF%D0%BE%D0%B4%D1%83%D0%BC%D0%BE%D0%B9-%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB.jpg)
+### Article
+
+* https://www.aclweb.org/anthology/W19-1415
 
 
-* ${LANG_CODE}_*.ipynb -- это тетрадки, которыми мы получили результаты, описанные в статье.
+### Contacts
 
-Секции fold* -- это обучение morfessor (см. статью)
-
-В секции Morphnet клонируются репо, использующие Morfnet (см. статью и эти репо)
-
-Дальше вся логика не выходит за рамки тетрадки.
-
-С вопросами можно обращаться в телеграм @vmkhlv
+* @vmkhlv – vlad, telegram
