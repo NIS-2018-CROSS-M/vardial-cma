@@ -32,4 +32,4 @@ https://github.com/ftyers/vardial-shared-task
 
 ### Contacts
 
-* @vmkhlv – vlad, telegram
+* @vmkhlv – vlad, telegram (по всем вопросам писать можно и нужно)
